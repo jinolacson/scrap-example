@@ -1,5 +1,9 @@
 
-
+## Install
+```
+cd testpuppet
+npm install
+```
 ## Execute
 
 ```
@@ -7,7 +11,7 @@ node index.js --base=/home/dev-mentor/Pictures/scrap-example/submission/ --direc
 ```
 
 ## Change
-We need to change this = /home/dev-mentor/Pictures/
+Change this = `/home/dev-mentor/Pictures/`
 
 
 ### Result:
