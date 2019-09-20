@@ -16,4 +16,4 @@ Change this = `/home/dev-mentor/Pictures/`
 
 ### What we need to achieve:
 
-![alt text](executed-example.png)
+![alt text](for-improvement.png)
