@@ -14,6 +14,6 @@ node index.js --base=/home/dev-mentor/Pictures/scrap-example/submission/ --direc
 Change this = `/home/dev-mentor/Pictures/`
 
 
-### Result:
+### What we need to achieve:
 
 ![alt text](executed-example.png)
